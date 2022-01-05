@@ -11,4 +11,4 @@ fastboot flash vbmeta vbmeta_disabled.img
 ```
 
 # How to flash - Samsung - Odin
-Boot into download mode and flash [vbmeta_disabled.tar](vbmeta_disabled.tar) in the AP slot.
+Boot into download mode and flash [vbmeta_disabled.tar](https://github.com/ZillionMuffin/AVB_Disabler/releases/download/vbmeta/vbmeta_disabled.tar) in the AP slot.
