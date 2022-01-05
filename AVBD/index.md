@@ -1,5 +1,5 @@
 ## Android Verified Boot vbmeta disabler
-
+### This may be device specific
 You can download the AVB vbmeta disabler images from here:
 [Samsung](https://github.com/ZillionMuffin/AVB_Disabler/releases/download/vbmeta/vbmeta_disabled.tar)
 [AOSP / Other](https://github.com/ZillionMuffin/AVB_Disabler/releases/download/vbmeta/vbmeta_disabled.img)
