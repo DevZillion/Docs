@@ -13,8 +13,12 @@ Required:           |  Bonus: (Extra things)   |  Definectly Don't buy this:
   (Re)Writable UID  |                          |
 ```
 ## » Converting Dumps from .key.dump or .bin to .mct
-
 ### 1 - Download [this app](https://github.com/ikarus23/MifareClassicTool).
+### 2 - Open it and click on this button xD.
+![Screenshot_20220223-202830_MIFARE_Classic_Tool](https://user-images.githubusercontent.com/77107077/155384247-f4a76544-61fd-400e-a912-397ef71c62bb.jpg)
+### 3 - Tap on 'Import/Export/Convert Files', then tap on Import and import the files you want to convert to .mct.
+### 4 - Now go back to the same screen but click export as .mct, select the directory you want your files to be saved to and voilà, you finished.
+
 ## » Writing Tags
 ###  1 - Download [this app](https://mega.nz/file/D4sGjZSD#9wQRFeP3bXuL5pt722MFy-EbiZzH5sTjvVZmScSR4mw).
 ###  2 - Open it and allow access to all the files.
