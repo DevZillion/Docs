@@ -1,11 +1,11 @@
-# » Writing & Reading Skylander Tags Using Android Phones [WIP]
+# » Writing & Reading Skylander Tags Using Android Phones
 ## » Before Starting
 Check if your phone isn't listed on the [Incompatible Devices List](https://github.com/ikarus23/MifareClassicTool/blob/master/INCOMPATIBLE_DEVICES.md).
 ###
 If it isn't listed you can continue but if you want to be 100% sure your device will work check the [Compatible Devices List](https://github.com/ikarus23/MifareClassicTool/blob/master/COMPATIBLE_DEVICES.md).
 ## » Required Tags
  ```c
-Required:           |  Bonus: (Extra things)   |  Definectly Don't buy this:
+Required:          |  Bonus: (Extra things)   |  Definectly Don't buy this:
   Block 0 Writable  |    s50  ( you can get)   |  s70
   1k                |    MF1                   |  MF4K
   13.56Mhz          |    'Chinese Magic Card'  |  UID Locked
@@ -33,9 +33,10 @@ tmp - Don't touch it, it is used only by the app.
 > ### 4 - Add your dumps in the _dump-files_ folder ;)
 > ### 5 - Now you can got to the app and click on the 'write tag' button.
 > ![Screenshot_20220223-192332_MIFARE_Classic_Tool](https://user-images.githubusercontent.com/77107077/155373612-a4252b58-a0ce-4cef-832a-6deef056bc5e.jpg)
-> ### 6 - Mark the check-boxes like in this screenshot and then press the 'Select Dump' button, select your dump and when asked select all the sector, including > > sector 0, now put your tag on the reader and click 'write'.
+> ### 6 - Mark the check-boxes like in this screenshot and then press the 'Select Dump' button, select your dump and when asked select all the sectors, EXCLUDING > > sector 0, now put your tag on the reader and click 'write'.
 > ![Screenshot_MIFARE_Classic_Tool](https://user-images.githubusercontent.com/77107077/155374053-62645082-ca42-4799-b4e5-c6ad3304aa1f.jpg)
-> ### 7 - Your tag should be ready, but sometimes it won't work due to dump's UID no being written. In this case you should do it manually but if can't that means your tags aren't UID (Re)Writable.
+> ### 7 - Now repeat step 6 but write ONLY sector 0.
+> ### 8 - Your tag should be ready, but sometimes it won't work due to dump's UID no being written. In this case you should do it manually but if can't that means your tags aren't UID (Re)Writable.
 
 ## » Getting a dump's .Keys to read the written tag
 > ### 1 - Tap on this nice button.
@@ -69,5 +70,7 @@ tmp - Don't touch it, it is used only by the app.
 > Consider getting new tags.
 > Consider buying a real nfc reader and writer lol.
 
-This is a Work In Progess project and waiting for people to test it out.
-Do not take this as any kind of scam simply because it didn't work for you.
+### Tested Tags
+> https://ebay.to/35TxcVz
+
+This should work, may take a couple of tries.
