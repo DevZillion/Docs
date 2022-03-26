@@ -21,7 +21,7 @@ Required:          |  Bonus: (Extra things)   |  Definectly Don't buy this:
 > ### 4 - Now go back to the same screen but click export as .mct, select the directory you want your files to be saved to and voilà, you finished.
 
 ## » Writing Tags
-> Note: To write tags use std.keys and the keys extracted from the dump (Next section explains how)
+> Note: To write tags use the keys extracted from the dump (Next section explains how)
 > ###  1 - Download [this app](https://mega.nz/file/D4sGjZSD#9wQRFeP3bXuL5pt722MFy-EbiZzH5sTjvVZmScSR4mw).
 > ###  2 - Open it and allow access to all the files.
 > ###  3 - Now go to your file manager and search for a folder called 'MifareClassicTool' on the _user_ root directory and you will see something like this.
@@ -39,7 +39,7 @@ tmp - Don't touch it, it is used only by the app.
 > ### 7 - Now repeat step 6 but write ONLY sector 0.
 > ### 8 - Your tag should be ready, but sometimes it won't work due to dump's UID no being written. In this case you should do it manually but if can't that means your tags aren't UID (Re)Writable.
 
-## » Getting a dump's .Keys to read the written tag
+## » Getting a dump's .Keys to read the written tag (Required to write too)
 > ### 1 - Tap on this nice button.
 > ![Screenshot_20220223-195642_MIFARE_Classic_Tool](https://user-images.githubusercontent.com/77107077/155380473-f05846c5-7600-4ab9-9197-7babdd99d331.jpg)
 > ### 2 - Select the dump you want to get Keys from.
