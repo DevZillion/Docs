@@ -2,7 +2,7 @@
 ## » Before Starting
 Check if your phone isn't listed on the [Incompatible Devices List](https://github.com/ikarus23/MifareClassicTool/blob/master/INCOMPATIBLE_DEVICES.md).
 ###
-If it isn't listed you can continue but if you want to be 100% sure your device will work check the [Compatible Devices List](https://github.com/ikarus23/MifareClassicTool/blob/master/COMPATIBLE_DEVICES.md).
+If it isn't listed you can continue but if you want to be 100% sure your device will work check the [Compatible Devices List](https://github.com/ikarus23/MifareClassicTool/blob/master/COMPATIBLE_DEVICES.md) or check if your phone has a ``NXP nfc controller``.
 ## » Required Tags
  ```c
 Required:          |  Bonus: (Extra things)   |  Definectly Don't buy this:
@@ -14,7 +14,7 @@ Required:          |  Bonus: (Extra things)   |  Definectly Don't buy this:
  ```
 
 ## » Converting Dumps from .key.dump or .bin to .mct
-> ### 1 - Download [this app](https://github.com/ikarus23/MifareClassicTool).
+> ### 1 - Download [MifareClassicTool](https://github.com/ikarus23/MifareClassicTool).
 > ### 2 - Open it and click on this button xD.
 > ![Screenshot_20220223-202830_MIFARE_Classic_Tool](https://user-images.githubusercontent.com/77107077/155384247-f4a76544-61fd-400e-a912-397ef71c62bb.jpg)
 > ### 3 - Tap on 'Import/Export/Convert Files', then tap on Import and import the files you want to convert to .mct.
@@ -22,7 +22,7 @@ Required:          |  Bonus: (Extra things)   |  Definectly Don't buy this:
 
 ## » Writing Tags
 > Note: To write tags use the keys extracted from the dump (Next section explains how)
-> ###  1 - Download [this app](https://mega.nz/file/D4sGjZSD#9wQRFeP3bXuL5pt722MFy-EbiZzH5sTjvVZmScSR4mw).
+> ###  1 - Download [SkylandersAbleMifareClassicTool](https://mega.nz/file/D4sGjZSD#9wQRFeP3bXuL5pt722MFy-EbiZzH5sTjvVZmScSR4mw).
 > ###  2 - Open it and allow access to all the files.
 > ###  3 - Now go to your file manager and search for a folder called 'MifareClassicTool' on the _user_ root directory and you will see something like this.
 > ![Screenshot_20220223-191518_My_Files](https://user-images.githubusercontent.com/77107077/155371570-02b4d6bd-cca2-41c5-b022-816e7cf0f86c.jpg)
