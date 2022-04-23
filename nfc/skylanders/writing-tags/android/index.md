@@ -2,7 +2,7 @@
 ## » Before Starting
 Check if your phone isn't listed on the [Incompatible Devices List](https://github.com/ikarus23/MifareClassicTool/blob/master/INCOMPATIBLE_DEVICES.md).
 ###
-If it isn't listed you can continue but if you want to be 100% sure your device will work check the [Compatible Devices List](https://github.com/ikarus23/MifareClassicTool/blob/master/COMPATIBLE_DEVICES.md) or check if your phone has a ``NXP nfc controller``.
+If it isn't listed you can continue but if you want to be 100% sure your device will work check the [Compatible Devices List](https://github.com/ikarus23/MifareClassicTool/blob/master/COMPATIBLE_DEVICES.md) or check if your phone has a ``NXP NFC Controller``.
 ## » Required Tags
  ```c
 Required:          |  Bonus: (Extra things)   |  Definectly Don't buy this:
@@ -21,7 +21,7 @@ Required:          |  Bonus: (Extra things)   |  Definectly Don't buy this:
 > ### 4 - Now go back to the same screen but click export as .mct, select the directory you want your files to be saved to and voilà, you finished.
 
 ## » Writing Tags
-> Note: To write tags use the keys extracted from the dump (Next section explains how)
+> Note: To write tags use the std.keys file
 > ###  1 - Download [SkylandersAbleMifareClassicTool](https://mega.nz/file/D4sGjZSD#9wQRFeP3bXuL5pt722MFy-EbiZzH5sTjvVZmScSR4mw).
 > ###  2 - Open it and allow access to all the files.
 > ###  3 - Now go to your file manager and search for a folder called 'MifareClassicTool' on the _user_ root directory and you will see something like this.
