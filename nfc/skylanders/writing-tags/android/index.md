@@ -9,7 +9,7 @@ Required:          |  Bonus: (Extra things)   |  Definectly Don't buy this:
   Block 0 Writable  |    s50  ( you can get)   |  s70
   1k                |    MF1                   |  MF4K
   13.56Mhz          |    'Chinese Magic Card'  |  UID Locked
-  Gen 2             |                          |  7 Byte UID
+  Gen 2 or CUID     |                          |  7 Byte UID
   (Re)Writable UID  |                          |
  ```
 
