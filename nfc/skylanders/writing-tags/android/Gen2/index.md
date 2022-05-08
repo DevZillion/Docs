@@ -53,14 +53,6 @@ tmp - Don't touch it, it is used only by the app.
 >### 2 - Select the .keys files you just made on the previous step and tap on this button.
 >![Screenshot_20220223-201824_MIFARE_Classic_Tool - Copy](https://user-images.githubusercontent.com/77107077/155382780-4a368d6a-2f5f-49b3-8b74-542bd1d436a1.jpg)
 
-## » Reading your actual Skylanders figures [NOT WRITTEN TAGS]
->### 1 - Download [this](https://github.com/ZillionMuffin/SkyKeyAGen/) to a PC running Windows.
->### 2 - Extract it using [WinRar](https://winrar.com/) or [7Zip](http://7zip.org/).
->### 3 - Execute the .bat file and write the name wanted for the .keys file and the tag's UID.
->### 4 - Tag's UID are the 1st 8 characters from Sector 0 Block 0 and look like this `2F03EC30`.
->### 5 - Now transfer the .keys files to your phone and read it with that file using the Mifare Classic Tool app.
->### 6 - From there you can read it the same as a written tag but using the generated .keys
-
 ## » Common problems with common solutions
 ### This isn't a problem, just info everyone should know
 > Every Skylander has a Sector 0 with the same KeyA that is '4B0B20107CCB'
