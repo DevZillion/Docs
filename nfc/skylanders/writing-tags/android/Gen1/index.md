@@ -1,9 +1,10 @@
 # » Writing **Gen 1** or **UID LOCKED Tags** Skylander Tags Using Android Phones & a PC.
 
 ## » Getting TheSkyLib Ready [PC]
+### [You have to do this for every tag you want to write]
 > ### 1 - Download [TheSkyLib](https://github.com/ZillionMuffin/TheSkyLib/archive/refs/heads/main.zip).
 > ### 2 - Extract it.
-> ### 3 - Open it and place a dump of your **BLANK** tags inside ``dumps/blank_tags`` and place the dump of your skylander inside ``dumps/skylanders``.
+> ### 3 - Open it and place a dump of your **BLANK** tag inside ``dumps/blank_tags`` and place the dump of your skylander inside ``dumps/skylanders``.
 > ### 4 - Now execute **Dump2LockedTag.bat** and do what the program asks for.
 > ### 5 - You'll find your output dump on ``output\Dump2LockedTag``, that dump is ready to be written into your UID Locked/Gen 1 tag.
 
