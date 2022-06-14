@@ -1,8 +1,8 @@
 # » Are your tags Gen 0 or Gen 2?
 
->[Gen 0 (UID) or Locked UID Tags](https://zillionmuffin.github.io/Docs/nfc/skylanders/writing-tags/android/Gen1/)
+>[Gen 0 (UID) or Locked UID Tags](https://devzillion.github.io/Docs/nfc/skylanders/writing-tags/android/Gen1/)
 >
->[Gen 2 (CUID) - Not Recommended anymore as Gen 1 method is better but part of this guide is useful to some people.](https://zillionmuffin.github.io/Docs/nfc/skylanders/writing-tags/android/Gen2/)
+>[Gen 2 (CUID) - Not Recommended anymore as Gen 1 method is better but part of this guide is useful to some people.](https://devzillion.github.io/Docs/nfc/skylanders/writing-tags/android/Gen2/)
 
 
 ## » Reading your actual Skylanders figures [NOT WRITTEN TAGS]
