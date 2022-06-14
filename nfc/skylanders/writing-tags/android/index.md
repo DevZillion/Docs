@@ -1,6 +1,6 @@
-# » Are your tags Gen 1 or Gen 2?
+# » Are your tags Gen 0 or Gen 2?
 
->[Gen 1 (UID) or Locked UID Tags](https://zillionmuffin.github.io/Docs/nfc/skylanders/writing-tags/android/Gen1/)
+>[Gen 0 (UID) or Locked UID Tags](https://zillionmuffin.github.io/Docs/nfc/skylanders/writing-tags/android/Gen1/)
 >
 >[Gen 2 (CUID) - Not Recommended anymore as Gen 1 method is better but part of this guide is useful to some people.](https://zillionmuffin.github.io/Docs/nfc/skylanders/writing-tags/android/Gen2/)
 
