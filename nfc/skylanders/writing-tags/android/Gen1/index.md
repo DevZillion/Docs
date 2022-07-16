@@ -4,7 +4,7 @@
 ### [You have to do this for every tag you want to write]
 > ### 1 - Download [TheSkyLib](https://github.com/ZillionMuffin/TheSkyLib/archive/refs/heads/main.zip).
 > ### 2 - Extract it.
-> ### 3 - Open it and place a dump of your **BLANK** tag inside ``dumps/blank_tags`` and place the dump of your skylander inside ``dumps/skylanders``.
+> ### 3 - Open it and place a dump of your **BLANK** tag (the tag you want to write) inside ``dumps/blank_tags`` and place the dump of your skylander inside ``dumps/skylanders``.
 > ### 4 - Now execute **Dump2LockedTag.bat** and do what the program asks for.
 > ### 5 - You'll find your output dump on ``output\Dump2LockedTag``, that dump is ready to be written into your UID Locked/Gen 0 tag.
 
